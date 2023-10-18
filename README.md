@@ -1,5 +1,4 @@
-# BankAccount
-## assignment 2
+
 # Assignment2 - Product Catalog and User Management
 
 This is a C# program that demonstrates the use of a product catalog, user management, and the Singleton pattern. It includes various classes to represent products, users, admins, suppliers, and customers.
