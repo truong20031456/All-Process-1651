@@ -44,7 +44,9 @@ The program consists of several classes:
 ## Singleton Pattern
 
 The `Singleton` class ensures that there is only one instance of the `ProductCatalog` in the application. This prevents the creation of multiple product catalogs and maintains consistency in managing products.
+## Author
+[TruongCaoVan](#truongcaovan)
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE). You are free to use and modify the code as needed.
+
+
