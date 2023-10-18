@@ -45,7 +45,8 @@ The program consists of several classes:
 
 The `Singleton` class ensures that there is only one instance of the `ProductCatalog` in the application. This prevents the creation of multiple product catalogs and maintains consistency in managing products.
 ## Author
-[[TruongCaoVan](https://github.com/truong20031456)https://github.com/truong20031456](#truongcaovan)
+[TruongCaoVan](https://github.com/truong20031456) - [GitHub Profile](https://github.com/truong20031456)
+
 
 
 
